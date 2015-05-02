@@ -88,7 +88,6 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 Full list of SublimeLinters, right [here](https://sublime.wbond.net/browse/labels/SublimeLinter).
 
 - [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) - the most extensive Sublime Text linter out there
-
 - [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint) - Javascript Linter
 - [SublimeLinter-html-tidy](https://sublime.wbond.net/packages/SublimeLinter-html-tidy) - HTML Linter
 - [SublimeLinter-csslint](https://sublime.wbond.net/packages/SublimeLinter-csslint) - CSS Linter
