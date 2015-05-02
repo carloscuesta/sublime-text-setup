@@ -1,0 +1,29 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/User/SublimeLinter/Resesif (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"enable_tab_scrolling": false,
+	"find_selected_text": true,
+	"findreplace_small": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.codekit",
+		"*.sublime-project",
+		"*.log"
+	],
+	"scroll_speed": 4.0,
+	"show_encoding": true,
+	"sidebar_default": true,
+	"sidebar_medium": true,
+	"tab_completion": true,
+	"tabs_small": true,
+	"theme": "predawn-DEV.sublime-theme"
+}
