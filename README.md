@@ -14,6 +14,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 ## Tools (Better Sublime Text) 
 
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - This plugin allows for faster file creation within a project.
+- [Bower](https://packagecontrol.io/packages/Bower) - Bower integration with Sublime Text. What is [Bower](http://bower.io) ? 
 - [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter) - Matches a variety of brackets such as: [], (), {}, "", '', <tag></tag>, and even custom brackets.
 - [DashDoc](https://packagecontrol.io/packages/DocBlockr) -Simplifies writing Documentation comments in Javascript, PHP, Java ...
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Provides the basics operations of files and folders : new file/folder, edit, open/run, reveal, find in selected/parent/project, cut, copy, paste, rename, move, delete.
@@ -68,6 +69,10 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 
 - [Javascript Snippets](https://sublime.wbond.net/packages/JavaScript%20Snippets)
 - [NodeJS](https://sublime.wbond.net/packages/Nodejs) - snippets and code completion for Node.js
+
+#### Formaters
+
+- [JSCS](https://packagecontrol.io/packages/JSCS-Formatter) - Autoformat your JavaScript code with the js syntax guide that you want.
 
 #### Preprocessors
 
