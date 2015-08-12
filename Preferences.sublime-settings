@@ -1,5 +1,6 @@
 {
 	"auto_complete": true,
+	"font_face": "Source Code Pro",
 	"color_scheme": "Packages/User/SublimeLinter/Resesif (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"drag_text": false,
