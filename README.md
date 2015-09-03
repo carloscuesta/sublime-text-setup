@@ -2,7 +2,7 @@
 
 This document describes how I set up my text editor that I use to develope.
 
-If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/carloscuestadev)!
+If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/crloscuesta)!
 
 ## Getting Started
 
