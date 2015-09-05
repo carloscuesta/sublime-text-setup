@@ -30,6 +30,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 - [HTML5](https://sublime.wbond.net/packages/HTML5) - HTML5 snippets/syntax
 - [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
 - [CSS3](https://sublime.wbond.net/packages/CSS3) - CSS3 syntax, autocomplete
+- [Autoprefixer](https://packagecontrol.io/packages/Autoprefixer) - Sublime plugin to prefix your CSS. 
 
 #### HTML Preprocessors/Templating
 
