@@ -19,6 +19,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 - [DashDoc](https://packagecontrol.io/packages/DocBlockr) - Simplifies writing Documentation comments in Javascript, PHP, Java ...
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Provides the basics operations of files and folders : new file/folder, edit, open/run, reveal, find in selected/parent/project, cut, copy, paste, rename, move, delete.
 - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine.
+- [EditorConfig](https://packagecontrol.io/packages/EditorConfig) - [EditorConfig](http://editorconfig.org/) helps developers maintain consistent coding styles between different editors
 
 ## Language Specific Packages
 
