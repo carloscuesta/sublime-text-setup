@@ -92,6 +92,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 ### Markdown
 
 - [Markdown​Editing](https://packagecontrol.io/packages/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+- [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting.
 
 ## Linters
 
