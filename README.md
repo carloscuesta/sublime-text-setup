@@ -71,6 +71,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 
 - [Javascript Snippets](https://sublime.wbond.net/packages/JavaScript%20Snippets)
 - [NodeJS](https://sublime.wbond.net/packages/Nodejs) - snippets and code completion for Node.js
+- [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 
 #### Formaters
 
