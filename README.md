@@ -32,6 +32,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 - [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
 - [CSS3](https://sublime.wbond.net/packages/CSS3) - CSS3 syntax, autocomplete
 - [Autoprefixer](https://packagecontrol.io/packages/Autoprefixer) - Sublime plugin to prefix your CSS. 
+- [ColorHighlighter](https://packagecontrol.io/packages/Color%20Highlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (works with SASS).
 
 #### HTML Preprocessors/Templating
 
