@@ -1,35 +1,44 @@
 {
-	"auto_complete": true,
-	"color_scheme": "Packages/User/SublimeLinter/Resesif (SL).tmTheme",
-	"default_encoding": "UTF-8",
-	"drag_text": false,
-	"draw_minimap_border": true,
-	"enable_tab_scrolling": false,
-	"find_selected_text": true,
-	"findreplace_small": true,
-	"font_face": "Source Code Pro",
-	"font_options":
-	[
-		"gray_antialias"
-	],
-	"font_size": 14,
-	"highlight_line": true,
-	"highlight_modified_tabs": false,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"index_exclude_patterns":
-	[
-		"*.codekit",
-		"*.sublime-project",
-		"*.log"
-	],
-	"scroll_speed": 4.0,
-	"show_encoding": true,
-	"sidebar_default": true,
-	"sidebar_medium": true,
-	"tab_completion": true,
-	"tabs_small": true,
-	"theme": "predawn-DEV.sublime-theme"
+    "auto_complete": true,
+    "default_encoding": "UTF-8",
+    "drag_text": false,
+    "draw_minimap_border": true,
+    "enable_tab_scrolling": false,
+    "find_selected_text": true,
+    "findreplace_small": true,
+    "font_face": "Source Code Pro",
+    "font_size": 14,
+    "tab_size": 4,
+    "translate_spaces_to_tabs": true,
+    "trim_trailing_white_space_on_save": true,
+    "highlight_line": true,
+    "highlight_modified_tabs": false,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "index_exclude_patterns":
+    [
+        "*.codekit",
+        "*.sublime-project",
+        "*.log",
+        "*/node_modules/*",
+        "node_modules/"
+    ],
+    "folder_exclude_patterns":
+    [
+        "node_modules",
+        ".git"
+    ],
+    "scroll_speed": 4.0,
+    "show_encoding": true,
+    "sidebar_default": true,
+    "sidebar_medium": true,
+    "tab_completion": true,
+    "tabs_small": true,
+    "theme": "predawn-DEV.sublime-theme"
+    /*"font_options":
+    [
+        "gray_antialias"
+    ], */
 }
