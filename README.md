@@ -1,4 +1,6 @@
-# Sublime Text
+# Sublime Text Setup
+
+![sublimetext](https://cloud.githubusercontent.com/assets/7629661/10515898/e7411c60-7355-11e5-89cc-591c65b503e2.png)
 
 This document describes how I set up my text editor that I use to develope.
 
@@ -138,6 +140,6 @@ Full list of SublimeLinters, right [here](https://sublime.wbond.net/browse/label
 - [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
 - [Schemr](https://sublime.wbond.net/packages/Schemr) - a package that allows you to switch between color schemes faster
 
-### Learning Resources
+## Learning Resources
 
 - [Sublime Text Tutorials by Scotch.io](https://scotch.io/tag/sublime-text) - Here you can find a lot of stuff, videos, tutorials, plugins, themes and others about Sublime Text. 
