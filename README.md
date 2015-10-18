@@ -125,8 +125,8 @@ Full list of SublimeLinters, right [here](https://sublime.wbond.net/browse/label
 
 - [Predawn](https://sublime.wbond.net/packages/Predawn)
 - [Spacegray](https://sublime.wbond.net/packages/Theme%20-%20Spacegray)
+- [Seti UI](https://packagecontrol.io/packages/Seti_UI)
 - [ITG.Flat](https://packagecontrol.io/packages/Theme%20-%20itg.flat)
-- [Brogrammer](https://packagecontrol.io/packages/Theme%20-%20Brogrammer)
 
 ### Color Schemes
 
