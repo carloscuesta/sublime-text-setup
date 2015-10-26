@@ -6,6 +6,18 @@ This document describes how I set up my text editor that I use to develope.
 
 If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/crloscuesta)!
 
+## Use
+
+To setup Sublime Text as the image, you will have to install [Predawn](https://sublime.wbond.net/packages/Predawn) from the [package Control](https://sublime.wbond.net/installation). 
+
+Then clone my repository using:
+
+```bash
+git clone https://github.com/carloscuesta/sublime-text-setup.git
+```
+
+Copy the ```Predawn``` folder and the colorscheme file ```carloscuesta.tmTheme``` inside of ```~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User``` and **restart** your sublime text.
+
 ## Getting Started
 
 - [Sublime Text](http://www.sublimetext.com/) - the best text editor for me, using it for years. 
