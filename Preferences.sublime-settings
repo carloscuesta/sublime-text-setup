@@ -1,7 +1,8 @@
 {
     "auto_complete": true,
-    "color_scheme": "Packages/User/SublimeLinter/Resesif (SL).tmTheme",
+    "color_scheme": "Packages/User/SublimeLinter/resesif.tmTheme",
     "default_encoding": "UTF-8",
+    "detect_indentation": true,
     "drag_text": false,
     "draw_minimap_border": true,
     "enable_tab_scrolling": false,
@@ -39,7 +40,7 @@
     "show_encoding": true,
     "tab_completion": true,
     "tab_size": 4,
+    "indent_guide_options": ["draw_normal", "draw_active"],
     "theme": "predawn-DEV.sublime-theme",
-    "translate_spaces_to_tabs": true,
-    "trim_trailing_white_space_on_save": true
+    "translate_spaces_to_tabs": false
 }
