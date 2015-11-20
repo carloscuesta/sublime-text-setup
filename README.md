@@ -34,6 +34,7 @@ Copy the ```Predawn``` folder and the colorscheme file ```carloscuesta.tmTheme``
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Provides the basics operations of files and folders : new file/folder, edit, open/run, reveal, find in selected/parent/project, cut, copy, paste, rename, move, delete.
 - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine.
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig) - [EditorConfig](http://editorconfig.org/) helps developers maintain consistent coding styles between different editors
+- [AlignTab](https://packagecontrol.io/packages/AlignTab) - An alignment plugin using regular expression.
 
 ## Language Specific Packages
 
