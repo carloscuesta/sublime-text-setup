@@ -8,15 +8,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 
 ## Use
 
-To setup Sublime Text as the image, you will have to install [Predawn](https://sublime.wbond.net/packages/Predawn) from the [package Control](https://sublime.wbond.net/installation). 
-
-Then clone my repository using:
-
-```bash
-git clone https://github.com/carloscuesta/sublime-text-setup.git
-```
-
-Copy the ```Predawn``` folder and the colorscheme file ```carloscuesta.tmTheme``` inside of ```~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User``` and **restart** your sublime text.
+To setup Sublime Text as the image, you will have to install [Predawn](https://sublime.wbond.net/packages/Predawn) and [Resesif](https://packagecontrol.io/packages/Resesif%20Color%20Scheme) from the [package Control](https://sublime.wbond.net/installation).
 
 ## Getting Started
 
